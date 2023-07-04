@@ -8,8 +8,7 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e",
-    "postinstall": "cd chargebee-js-angular && ngcc"
+    "e2e": "ng e2e"
   },
   "description": "Angular wrapper for Chargebee.js Components",
   "dependencies": {
